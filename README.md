@@ -32,5 +32,5 @@ Bienvenido al repositorio del **e-commerce Kerin Shoes**, una tienda en línea e
 ## 📩 Contacto  
 
 Si tienes preguntas o deseas colaborar, contáctanos en:  
-📧 **kerinshoes@gmail.com**  
+📧 **shoeskerin@gmail.com**  
 🌐 [Nuestras redes sociales](#) *(Enlace pendiente)*  
